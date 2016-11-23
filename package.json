@@ -1,0 +1,12 @@
+{
+  "name": "tdd-kata-api",
+  "version": "1.0.0",
+  "author": "Jacob Clark",
+  "scripts": {
+    "start": "node ./node_modules/json-server/bin/index.js api/api.js"
+  },
+  "dependencies": {
+    "faker": "^3.1.0",
+    "json-server": "^0.9.1"
+  }
+}
