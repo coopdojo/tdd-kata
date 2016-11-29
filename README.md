@@ -21,8 +21,7 @@ Members eligibility is decided on the last day of every year, they are considere
 1. A member has spent more than £250 at the Co-op
 2. A member has taken out a Co-op insurance policy within the last 12 months prior to the calculation date
 3. A member has made any purchases from Co-op legal services within the last 12 months prior to the calculation date
-4. A member has made any purchases from Co-op legal services within the last 12 months prior to the calculation date
-5. A member has made a pre-paid funeral plan purchase from Co-op funerals within the last 12 months prior to the calculation date
+4. A member has made a pre-paid funeral plan purchase from Co-op funerals within the last 12 months prior to the calculation date
 
 (ps, these rules are totally fictional)
 
