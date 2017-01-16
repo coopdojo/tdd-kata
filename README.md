@@ -1,14 +1,7 @@
-### Co-op Digital Coderdojo - TDD Kata #1
-#### Monday 28th November 2016
+### Co-op Digital Coderdojo - Kata #1
+#### Started: Monday 28th November 2016 - Ended: Ongoing
 
 ##### Problem: Eligibility to vote
-
-##### Kata rules
-
-* **Use any language/framework** - keep in mind the session is only 1.5h long, a few boilerplates are provided.
-* **Work in pairs** - ping pong method! Pair #1 writes a broken test, pair #2 fixes it and writes a broken text, pair #1 fixes it... repeat! 
-* **Don't write a single line of code without a test** - not even once!
-* **Submit a PR** - submit your solution at the end of the session as a PR to [https://github.com/coopdojo/tdd-kata](https://github.com/coopdojo/tdd-kata), if we have time we can do a little show and tell! 
 
 ###### Problem: 
 The Co-op is a democratic organisation, which means Co-op members may have the ability to vote in our annual AGM at the end of each year! 
